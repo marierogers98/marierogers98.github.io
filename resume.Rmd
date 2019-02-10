@@ -1,5 +1,48 @@
 ---
-title: "John Doe's Resume"
+title: "Marie Rogers' Resume"
 ---
 
-Resume content.
+**Work Experience**
+*Swim Club Management - Assistant Manager and Lifeguard*
+Cary, NC
+May 2014 to August 2018
+* Maximized patron satisfaction by greating swimmers with courtesey and resolving any issues promptly and with a positive attitude.
+* Monitored the saftey of all guests in and around the pool.
+* Held the position of assistant manager and made sure all employees were working diligently, and treated with respect.
+
+*Prestonwood Country Club - Swim Instructor*
+Cary, NC
+May 2014 to August 2017
+* Planned fun and informative lessons for swimmers of all ages. 
+* Ensured  the safety of all students, as well as taught the correct swimming technique.
+
+*Peak Gymnastics - Gymnastics Coach*
+Apex, NC
+February 2015 - August 2016
+* Prepared gymnasts for special competitions and tournaments.
+* Taught private and group lessons, and ran a summer camp for gymnasts.
+* Maintained equipment, facilities, and inventory in proper order.
+
+**Volunteering**
+* Frequent volunteer at Miracle League
+* Volunteer experience with Appalachian State University program "Scholars with Diverse Abilities"
+* Volunteer at Habitat for Humanity
+
+**Skills**
+* First aid and CPR certified
+* Costumer service
+* Training and development
+* Strong communicator
+* Knowledgeable in psychology and neurology
+
+**Education**
+*Appalachian State University*
+Boone, NC
+Bachelor of Arts: **Psychology**
+* Minoring in Statistics
+* Member of the Lambda Phi chapter of Delta Zeta Sorority
+* Public Relations chairman of Delta Zeta
+* Member of National Society of Leadership and Success
+* Member of Psychology Club
+* Coursework in behavioral neuroscience laboratory and clinical psychology
+* Experience with SPSS, Excel, and RStudio

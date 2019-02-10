@@ -4,5 +4,8 @@ title: "My Website"
 
 *Hello, Website!*
 My name is Marie Rogers and I am a junior psychology major at Appalachian State University!  Some of my interests include snowboarding, hiking, and cooking.  I am currently working towards getting research experience for grad school.  I hope to study neuropsychology in my graduate studies. 
+
+ ![Alt text](/Downloads/IMG_4583.jpg)
+
 **Contact info** 
-email: rogersme4@appstate.edu
+Email: rogersme4@appstate.edu
